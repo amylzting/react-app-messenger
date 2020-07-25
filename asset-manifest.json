@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-app-messenger/static/css/main.1165a6f3.chunk.css",
-    "main.js": "/react-app-messenger/static/js/main.be62ec99.chunk.js",
-    "main.js.map": "/react-app-messenger/static/js/main.be62ec99.chunk.js.map",
+    "main.js": "/react-app-messenger/static/js/main.f5b37670.chunk.js",
+    "main.js.map": "/react-app-messenger/static/js/main.f5b37670.chunk.js.map",
     "runtime-main.js": "/react-app-messenger/static/js/runtime-main.db84f609.js",
     "runtime-main.js.map": "/react-app-messenger/static/js/runtime-main.db84f609.js.map",
     "static/js/2.2db880e0.chunk.js": "/react-app-messenger/static/js/2.2db880e0.chunk.js",
     "static/js/2.2db880e0.chunk.js.map": "/react-app-messenger/static/js/2.2db880e0.chunk.js.map",
     "index.html": "/react-app-messenger/index.html",
-    "precache-manifest.7db9494ffdb4761496a3998fd478bb2b.js": "/react-app-messenger/precache-manifest.7db9494ffdb4761496a3998fd478bb2b.js",
+    "precache-manifest.dcda0156553d2d7b4482aca9f5ed1031.js": "/react-app-messenger/precache-manifest.dcda0156553d2d7b4482aca9f5ed1031.js",
     "service-worker.js": "/react-app-messenger/service-worker.js",
     "static/css/main.1165a6f3.chunk.css.map": "/react-app-messenger/static/css/main.1165a6f3.chunk.css.map",
     "static/js/2.2db880e0.chunk.js.LICENSE.txt": "/react-app-messenger/static/js/2.2db880e0.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.db84f609.js",
     "static/js/2.2db880e0.chunk.js",
     "static/css/main.1165a6f3.chunk.css",
-    "static/js/main.be62ec99.chunk.js"
+    "static/js/main.f5b37670.chunk.js"
   ]
 }
